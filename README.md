@@ -8,8 +8,7 @@ Análise de dados de valores de aposentadoria de funcionários do Poder Executiv
 ## Resumo da análise
 
 Comparação da quantidade de aposentados e do total do custo do poder executivo federal brasileiro, nos meses de **Janeiro e Fevereiro de
-2018/2019.**
-Foi constatado um aumento significativo na quantidade e valor total (custo para os cofres públicos) de aposentadorias, a hipótese é de que devido a reforma da previdência de 2019
-onde todos irão receber no máximo o valor teto da aposentadoria (aproximadamente 5 mil reais), funcionários do poder executivo anteciparam suas respectivas
-aposentadorias porque uma vez que seu direito for garantido, não poderá ser alterado. Caso contrário, após a reforma seu direito seria no
-máximo o valor do teto da aposentadoria.
+2018/2019.**  
+Foi constatado um aumento significativo na quantidade e valor total (custo para os cofres públicos) de aposentadorias.  
+A hipótese é de que, devido a reforma da previdência de 2019, onde todos irão receber no máximo o valor teto da aposentadoria (aproximadamente 5 mil reais), funcionários do poder executivo anteciparam suas respectivasaposentadorias porque, uma vez que seu direito for garantido, não poderá ser alterado.  
+Caso contrário, após a reforma, seu direito seria no máximo o valor do teto da aposentadoria.
